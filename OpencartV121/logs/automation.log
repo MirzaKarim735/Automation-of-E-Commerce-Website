@@ -1,0 +1,380 @@
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\DELL\AppData\Local\Temp\testng-eclipse-1018271245\testng-customsuite.xml
+
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest *****Starting TC001_AccountRegistrationTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Ly Account Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on My Register Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Providing Customer Information
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Validating Expected Message
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.jq.Main@5ff2b8ca: 83 ms
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.FailedReporter@618ad2aa: 1 ms
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.XMLReporter@3f049056: 9 ms
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.EmailableReporter2@42c28305: 8 ms
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@35764bef: 6 ms
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Time taken by org.testng.internal.ExitCodeListener@5633dafd: 0 ms
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest *****Starting TC001_AccountRegistrationTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Ly Account Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on My Register Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Providing Customer Information
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Validating Expected Message
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest *****Starting TC001_AccountRegistrationTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Ly Account Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on My Register Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Providing Customer Information
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Validating Expected Message
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest *****Starting TC001_AccountRegistrationTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Ly Account Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on My Register Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Providing Customer Information
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Validating Expected Message
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\crossbrowsertesting.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest *****Starting TC001_AccountRegistrationTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Ly Account Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on My Register Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Providing Customer Information
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Validating Expected Message
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest *****Starting TC001_AccountRegistrationTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Ly Account Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on My Register Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Providing Customer Information
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Validating Expected Message
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest *****Starting TC001_AccountRegistrationTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Ly Account Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on My Register Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Providing Customer Information
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Validating Expected Message
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Starting TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Finished TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Starting TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Finished TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Finished TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC003_LoginDDT *****Starting TC3_LoginDST*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\grouping.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Starting TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Finished TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\grouping.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest *****Starting TC001_AccountRegistrationTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Ly Account Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on My Register Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Providing Customer Information
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Validating Expected Message
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Starting TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Finished TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\grouping.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest *****Starting TC001_AccountRegistrationTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Ly Account Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on My Register Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Providing Customer Information
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Validating Expected Message
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Starting TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Finished TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\grouping.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Starting TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Finished TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest *****Starting TC001_AccountRegistrationTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Ly Account Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on My Register Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Providing Customer Information
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Validating Expected Message
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Starting TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Finished TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\grouping.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest *****Starting TC001_AccountRegistrationTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Ly Account Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on My Register Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Providing Customer Information
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Validating Expected Message
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Starting TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Finished TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\grouping.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest *****Starting TC001_AccountRegistrationTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Ly Account Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on My Register Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Providing Customer Information
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Validating Expected Message
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Starting TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Finished TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\grouping.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest *****Starting TC001_AccountRegistrationTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Ly Account Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on My Register Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Providing Customer Information
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Validating Expected Message
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Starting TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\master.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest *****Starting TC001_AccountRegistrationTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Ly Account Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on My Register Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Providing Customer Information
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Validating Expected Message
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Starting TC002_loginTest*****
+%{HH:mm:ss.sss}[main] INFO  org.testng.internal.Utils [TestNG] Running:
+  D:\Automation\myworkspace\seleniumwebdriver\OpencartV121\grouping.xml
+
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest *****Starting TC001_AccountRegistrationTest*****
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on Ly Account Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Clicked on My Register Link
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Providing Customer Information
+%{HH:mm:ss.sss}[main] INFO  testCases.TC001_AccountRegistrationTest Validating Expected Message
+%{HH:mm:ss.sss}[main] INFO  testCases.TC002_LoginTest *****Starting TC002_loginTest*****
